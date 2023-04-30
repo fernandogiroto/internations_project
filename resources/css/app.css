@@ -1,0 +1,10 @@
+.banner{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/images/internations_users.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-logo{
+    width: 200px;
+}
